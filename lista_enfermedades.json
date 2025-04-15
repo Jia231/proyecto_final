@@ -1,0 +1,51 @@
+[
+    {
+    "nombre_enfermedad": "Aneurisma aórtico abdominal",
+    "urgencia": "rojo",
+    "id": 1
+}, {
+    "nombre_enfermedad": "Hemorragia intensa",
+    "urgencia": "rojo",
+    "id": 2
+},
+{
+    "nombre_enfermedad": "Apendicitis aguda",
+    "urgencia": "rojo",
+    "id": 3
+},
+{
+    "nombre_enfermedad": "Trombosis mesentérica",
+    "urgencia": "rojo",
+    "id": 4
+},
+{
+    "nombre_enfermedad": "Obstrucción intestinal",
+    "urgencia": "rojo",
+    "id": 5
+},
+{
+    "nombre_enfermedad": "Cálculos renales o ureterales",
+    "urgencia": "naranja",
+    "id": 6
+},
+{
+    "nombre_enfermedad": "Colecistitis aguda",
+    "urgencia": "naranja",
+    "id": 7
+},
+{
+    "nombre_enfermedad": "Cataratas",
+    "urgencia": "verde",
+    "id": 8
+},
+{
+    "nombre_enfermedad": "Colonoscopia",
+    "urgencia": "verde",
+    "id": 9
+},
+{
+    "nombre_enfermedad": "Biopsia de tejidos",
+    "urgencia": "verde",
+    "id": 10
+}
+]

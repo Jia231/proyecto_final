@@ -1,0 +1,282 @@
+[
+    {
+        "cedula": 151960149,
+        "edad": 65,
+        "nombre": "Pedro",
+        "apellido": "Venegas",
+        "enfermedad": 8
+    },
+    {
+        "cedula": 412625041,
+        "edad": 44,
+        "nombre": "Vicente",
+        "apellido": "Arias",
+        "enfermedad": 1
+    },
+    {
+        "cedula": 382764930,
+        "edad": 44,
+        "nombre": "Emanuel",
+        "apellido": "Rubio",
+        "enfermedad": 2
+    },
+    {
+        "cedula": 791074307,
+        "edad": 70,
+        "nombre": "José",
+        "apellido": "Villacrés",
+        "enfermedad": 5
+    },
+    {
+        "cedula": 535967254,
+        "edad": 57,
+        "nombre": "Serafín",
+        "apellido": "Escribano",
+        "enfermedad": 4
+    },
+    {
+        "cedula": 506484056,
+        "edad": 21,
+        "nombre": "Matías",
+        "apellido": "Sáenz",
+        "enfermedad": 5
+    },
+    {
+        "cedula": 976309463,
+        "edad": 34,
+        "nombre": "Joaquin",
+        "apellido": "Pomar",
+        "enfermedad": 5
+    },
+    {
+        "cedula": 962175464,
+        "edad": 33,
+        "nombre": "Axel",
+        "apellido": "Espina",
+        "enfermedad": 4
+    },
+    {
+        "cedula": 536564527,
+        "edad": 57,
+        "nombre": "Isaías",
+        "apellido": "Lacasa",
+        "enfermedad": 6
+    },
+    {
+        "cedula": 934737193,
+        "edad": 25,
+        "nombre": "Isidoro",
+        "apellido": "Sainz",
+        "enfermedad": 1
+    },
+    {
+        "cedula": 295054723,
+        "edad": 23,
+        "nombre": "Mía",
+        "apellido": "Luque",
+        "enfermedad": 6
+    },
+    {
+        "cedula": 728100830,
+        "edad": 88,
+        "nombre": "Sara",
+        "apellido": "Cicerón",
+        "enfermedad": 9
+    },
+    {
+        "cedula": 416619264,
+        "edad": 34,
+        "nombre": "Estela",
+        "apellido": "Ordóñez",
+        "enfermedad": 6
+    },
+    {
+        "cedula": 305891752,
+        "edad": 38,
+        "nombre": "Perla",
+        "apellido": "Cazalla",
+        "enfermedad": 5
+    },
+    {
+        "cedula": 763127099,
+        "edad": 51,
+        "nombre": "Soledad",
+        "apellido": "Leguizamo",
+        "enfermedad": 9
+    },
+    {
+        "cedula": 593747566,
+        "edad": 68,
+        "nombre": "Camila",
+        "apellido": "Fernán",
+        "enfermedad": 7
+    },
+    {
+        "cedula": 370471700,
+        "edad": 79,
+        "nombre": "Mía",
+        "apellido": "Andino",
+        "enfermedad": 7
+    },
+    {
+        "cedula": 111341201,
+        "edad": 77,
+        "nombre": "Priscila",
+        "apellido": "Espina",
+        "enfermedad": 7
+    },
+    {
+        "cedula": 707719214,
+        "edad": 82,
+        "nombre": "Verónica",
+        "apellido": "Berganza",
+        "enfermedad": 5
+    },
+    {
+        "cedula": 203857464,
+        "edad": 61,
+        "nombre": "Luna",
+        "apellido": "Tamayo",
+        "enfermedad": 5
+    },
+    {
+        "cedula": 878594032,
+        "edad": 64,
+        "nombre": "Jonatán",
+        "apellido": "Madrid",
+        "enfermedad": 1
+    },
+    {
+        "cedula": 954820253,
+        "edad": 77,
+        "nombre": "Mario",
+        "apellido": "Alcocer",
+        "enfermedad": 6
+    },
+    {
+        "cedula": 351656552,
+        "edad": 37,
+        "nombre": "Lucas",
+        "apellido": "Indiano",
+        "enfermedad": 7
+    },
+    {
+        "cedula": 146832155,
+        "edad": 77,
+        "nombre": "Juan",
+        "apellido": "Martín",
+        "enfermedad": 1
+    },
+    {
+        "cedula": 516487327,
+        "edad": 70,
+        "nombre": "Martin",
+        "apellido": "Ureña",
+        "enfermedad": 5
+    },
+    {
+        "cedula": 720134600,
+        "edad": 76,
+        "nombre": "Raul",
+        "apellido": "Alemán",
+        "enfermedad": 3
+    },
+    {
+        "cedula": 815487134,
+        "edad": 62,
+        "nombre": "Marcos",
+        "apellido": "Luque",
+        "enfermedad": 7
+    },
+    {
+        "cedula": 433032148,
+        "edad": 89,
+        "nombre": "César",
+        "apellido": "Quesada",
+        "enfermedad": 2
+    },
+    {
+        "cedula": 463737942,
+        "edad": 37,
+        "nombre": "Aaron",
+        "apellido": "Espiga",
+        "enfermedad": 8
+    },
+    {
+        "cedula": 611372246,
+        "edad": 68,
+        "nombre": "Jorge",
+        "apellido": "Romero",
+        "enfermedad": 9
+    },
+    {
+        "cedula": 365234871,
+        "edad": 86,
+        "nombre": "Ana",
+        "apellido": "Sofia",
+        "enfermedad": 6
+    },
+    {
+        "cedula": 592423431,
+        "edad": 49,
+        "nombre": "Lola",
+        "apellido": "Quesada",
+        "enfermedad": 6
+    },
+    {
+        "cedula": 322796043,
+        "edad": 41,
+        "nombre": "Clara",
+        "apellido": "Lain",
+        "enfermedad": 1
+    },
+    {
+        "cedula": 698293879,
+        "edad": 64,
+        "nombre": "Margarita",
+        "apellido": "Cotilla",
+        "enfermedad": 9
+    },
+    {
+        "cedula": 220285679,
+        "edad": 22,
+        "nombre": "Juliana",
+        "apellido": "Tejedor",
+        "enfermedad": 3
+    },
+    {
+        "cedula": 645549655,
+        "edad": 49,
+        "nombre": "Nina",
+        "apellido": "Ferrant",
+        "enfermedad": 6
+    },
+    {
+        "cedula": 529534126,
+        "edad": 38,
+        "nombre": "Ana",
+        "apellido": "Sofia",
+        "enfermedad": 4
+    },
+    {
+        "cedula": 892583764,
+        "edad": 74,
+        "nombre": "Camila",
+        "apellido": "Alvarado",
+        "enfermedad": 4
+    },
+    {
+        "cedula": 716699015,
+        "edad": 67,
+        "nombre": "Josefina",
+        "apellido": "Ruiz",
+        "enfermedad": 1
+    },
+    {
+        "cedula": 518877016,
+        "edad": 76,
+        "nombre": "Mía",
+        "apellido": "Pozo",
+        "enfermedad": 5
+    }
+]
