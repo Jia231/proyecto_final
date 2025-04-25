@@ -1,6 +1,7 @@
 import utils as u
 from severidad import Severidad
 import matplotlib.pyplot as plt
+import pandas as pd
 
 class SeguroSocial:
     def __init__(self):
@@ -59,3 +60,33 @@ class SeguroSocial:
         plt.ylabel('Cantidad')
         plt.title('Resumen de pacientes')
         plt.show()    
+
+    def filtrar_datos(self):
+        df_pacientes = pd.DataFrame(self.lista_pacientes)
+        df_enfermedades = pd.DataFrame(self.lista_enfermedades)
+        df_joined = df_pacientes.merge(df_enfermedades, how='left', left_on='enfermedad', right_on='id')
+        while True:
+            print("Filtros disponibles:")
+            print("1. Por edad")
+            print("2. Por enfermedad")
+            print("3. Por urgencia")
+            print("4. Salir")
+            opcion = int(input("Seleccione la forma en que desea filtrar la informacion: "))
+
+            if opcion == 4:
+                break
+            elif opcion == 1:
+                # edad_max = df_pacientes["edad"].max()
+                # edad_min = df_pacientes["edad"].min()
+                filtro = input("Desea filtrar por mayor a, menor a o igual que? [>,<,=]: ")
+                if filtro == "<":
+                    edad = int(input("Digite la edad por la que desea filtrar por: "))
+                    print(df_joined[df_joined["edad"] < edad])
+                elif filtro == ">":    
+                    edad = int(input("Digite la edad por la que desea filtrar por: "))
+                    print(df_joined[df_joined["edad"] > edad])
+                elif filtro == "=":
+                    edad = int(input("Digite la edad por la que desea filtrar por: "))
+                    print(df_joined[df_joined["edad"] == edad])  
+                else:
+                    print("Comando no reconocido")         
